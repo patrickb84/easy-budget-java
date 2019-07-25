@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 13 14:33:40 MST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-0161-9116-67c5-00000f678c20 
+on database directory C:\Users\Jeff\Documents\eclipse-workspace\2410\A02_EasyBudget\budgetDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@69222c14 
+Loaded from file:/C:/Users/Jeff/Documents/eclipse-workspace/2410/2410_CLASS_EXERCISE/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.1+11
+user.dir=C:\Users\Jeff\Documents\eclipse-workspace\2410\A02_EasyBudget
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
